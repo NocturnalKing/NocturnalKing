@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+CSE Major at UCM
+Transit enthusiast: Did BART speed run with friends (visited all 50 stations in 6:30)
+
 <!--
 **NocturnalKing/NocturnalKing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
